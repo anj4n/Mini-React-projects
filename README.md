@@ -11,7 +11,7 @@ This repository contains several small React projects I built while learning Rea
 These are separate folders inside this repository.
 
 ## 🚫 Not Included
-- `myfirst` folder (kept for personal practice, not uploaded)
+- `myfirst` folder (will upload later )
 
 ## 🧰 Tools Used
 - ReactJS
